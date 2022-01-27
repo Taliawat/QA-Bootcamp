@@ -1,2 +1,2 @@
 # QA-Bootcamp
-Project during SD Bottcamp
+Project during SD BottcampClone
